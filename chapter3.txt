@@ -1,1 +1,1 @@
-this is a test text3 in chapter3.txt modification
+this is a test text3 in chapter3.txt modification another modification for testing the gitignore
