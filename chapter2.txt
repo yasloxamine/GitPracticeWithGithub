@@ -1,1 +1,1 @@
-this is a test text2 in chapter2.txt another modification for test the gitignore ,  add another modification to test secret 2 file
+this is a test text2 in chapter2.txt another modification for test the gitignore ,  add another new modification to test secret 2 file

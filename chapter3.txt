@@ -1,2 +1,2 @@
-this is a test text3 in chapter3.txt modification another modification for testing the gitignorec , add another modification to test
+this is a test text3 in chapter3.txt modification another modification for testing the gitignorec , add another new modification to test
 secret 2 file 
