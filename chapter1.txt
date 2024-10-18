@@ -1,3 +1,4 @@
 this is a test text in chapter1.txt another modification in the chapter1.txt another new modification for testing the gitignore , add another
 modification to test secret 2 file 
 - this is to test adding a bonus text using git branching
+-this is another test bonus words using git branching

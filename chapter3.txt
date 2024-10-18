@@ -1,3 +1,4 @@
 this is a test text3 in chapter3.txt modification another modification for testing the gitignorec , add another new modification to test
 secret 2 file
 -this is to test a bonus text using git branching
+-this is another test as bonus text using git branching
